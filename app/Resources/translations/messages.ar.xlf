@@ -241,7 +241,7 @@
             </trans-unit>
             <trans-unit id="menu.homepage">
                 <source>menu.homepage</source>
-                <target>Homepage</target>
+                <target>الصفحة الرئيس</target>
             </trans-unit>
             <trans-unit id="menu.admin">
                 <source>menu.admin</source>
@@ -249,7 +249,7 @@
             </trans-unit>
             <trans-unit id="menu.logout">
                 <source>menu.logout</source>
-                <target>Logout</target>
+                <target>خروج</target>
             </trans-unit>
             <trans-unit id="menu.rss">
                 <source>menu.rss</source>
