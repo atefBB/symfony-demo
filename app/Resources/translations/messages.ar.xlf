@@ -21,7 +21,7 @@
 
             <trans-unit id="http_error.name">
                 <source>http_error.name</source>
-                <target>%status_code%خطأ </target>
+                <target>%status_code% خطأ</target>
             </trans-unit>
             <trans-unit id="http_error.description">
                 <source>http_error.description</source>
@@ -41,7 +41,7 @@
             </trans-unit>
             <trans-unit id="http_error_404.description">
                 <source>http_error_404.description</source>
-                <target>We couldn't find the page you requested.</target>
+                <target>لم نجد الصفحة التي تطلبها</target>
             </trans-unit>
             <trans-unit id="http_error_404.suggestion">
                 <source>http_error_404.suggestion</source>
@@ -49,7 +49,7 @@
             </trans-unit>
             <trans-unit id="http_error_500.description">
                 <source>http_error_500.description</source>
-                <target>There was an internal server error.</target>
+                <target>حدث خطأ داخلي للخادوم.</target>
             </trans-unit>
             <trans-unit id="http_error_500.suggestion">
                 <source>http_error_500.suggestion</source>
@@ -257,7 +257,7 @@
             </trans-unit>
             <trans-unit id="menu.search">
                 <source>menu.search</source>
-                <target>Search</target>
+                <target>بحث</target>
             </trans-unit>
 
             <trans-unit id="post.to_publish_a_comment">
@@ -294,7 +294,7 @@
             </trans-unit>
             <trans-unit id="post.search_for">
                 <source>post.search_for</source>
-                <target>Search for...</target>
+                <target>بحث عن ...</target>
             </trans-unit>
 
             <trans-unit id="notification.comment_created">
